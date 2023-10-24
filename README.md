@@ -1,2 +1,2 @@
 # [https://penguindancing.github.io](https://penguindancing.github.io)
-stupidest website
+worlds stupidest website
